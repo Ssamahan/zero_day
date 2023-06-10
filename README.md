@@ -1,3 +1,3 @@
-#Vagrant project
-** This project was mandatory **
+# Vagrant project
+**This project was mandatory**
 
